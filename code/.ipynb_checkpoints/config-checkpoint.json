@@ -1,0 +1,7 @@
+{
+    "k": 50,
+    "lambda": 2,
+    "garden_points_matrix": "/Users/bz/ma-nearest-neighbours/code/data/matrix_M.npz",
+    "garden_points_db": "/Users/bz/ma-nearest-neighbours/code/data/descriptors.npz",
+    "query_points_path": "/Users/bz/ma-nearest-neighbours/code/data/QueryPoints.npz"
+}

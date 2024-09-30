@@ -1,0 +1,16 @@
+{
+    "raw_garden_points_db" : "./data/garden_points_raw/HDC_DELF_GardensPointWalking_day_left.mat",
+    "raw_garden_query_points" : "./data/garden_points_raw/HDC_DELF_GardensPointWalking_night_right.mat",
+    "garden_points_matrix" : "./data/SEER/garden_matrix_M.npz",
+    
+    "garden_ground_truth" : "./data/garden_points_raw/groundTruth_GPW_DL_NR.mat",
+    
+    "garden_points_db_bz" : "./data/SEER/garden_bz/garden_descriptors.npz",
+    "garden_query_points_bz" : "./data/SEER/garden_bz/garden_QueryPoints.npz",
+
+    "garden_points_db_pn" : "./data/SEER/garden_pn/DB_SEER_run1.csv",
+    "garden_query_points_pn" : "./data/SEER/garden_pn/Q_SEER.csv",
+
+    "nl_spring_seer" :"./data/SEER/nordland/spring_SEER.mat",
+    "nl_winter_seer" :"./data/SEER/nordland/winter_SEER.mat"
+}
